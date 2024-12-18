@@ -1,0 +1,19 @@
+ul{
+    list-style: none;
+    display: flex;
+    width: 13em;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+#product{
+    margin-left: 13px;
+}
+#contakti{
+    margin-left: 13px;
+}
+#main{
+    display: flex;
+    justify-content: center;
+}
